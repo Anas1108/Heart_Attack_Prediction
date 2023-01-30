@@ -12,7 +12,7 @@ Libraries used:
 - The code is implemented using Jupyter Notebook.
 - Make sure you have Jupyter Notebook installed and running in your system.
 - Clone the repository to your local machine.
-- Open the Jupyter Notebook file and run the cells to see the output.
+- Open the Jupyter Notebook file (Heart_Attack_Prediction) and run the cells to see the output.
 
 ## Preprocessing
 - Load the dataset into a pandas DataFrame
